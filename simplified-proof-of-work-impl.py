@@ -5,8 +5,6 @@
 import hashlib
 import time
 
-
-
 max_nonce = 2 ** 32 # 4 billion
 max_difficulty = 32 # from 0 to 31 bits
 
